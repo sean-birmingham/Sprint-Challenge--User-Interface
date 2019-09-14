@@ -38,7 +38,7 @@ Semantic HTML provides meaning to you content. It makes your websites readable a
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
-Inline only takes up as much space as its content while block elements take up as much space as their parent element will allow.
+Inline only takes up as much space as its content while block elements take up as much space as their parent element will allow. Block starts a new line, while inline stays on one line.
 
 3. What are the 4 areas of the box model?
 
